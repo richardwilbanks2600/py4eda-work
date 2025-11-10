@@ -34,4 +34,18 @@ origin  https://github.com/richardwilbanks2600/py4eda-work.git (push)
 - The output of `git log --oneline`:  
 be8a510 (HEAD -> main, origin/main) Add hw3a solution document  
 d9fa67d Initial commit: Add README and .gitignore
+## Part 4: Questions
+Questions answered after creating this repository:
+### Reflections
+Question 1: Git Workflow Benefits  
+Prior to completing this assignment I would save different versions of work 
+either in a Box folder or locally with version specific names in parentheses. 
+This is in contrast to Git which is faster, more easily shared with others,
+and provides a better picture of what changes were made to work and when those
+changes were made.  
+Git's commit history would have been invaluable when I was doing
+my senior capstone project. At one point our team lost our report
+documentation, but having Git would have made version control and
+collaboration much easier.  
+Question 2: Repository Organization  
 
